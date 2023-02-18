@@ -1,0 +1,9 @@
+FakeNewsNet: This dataset contains over 300,000 news articles with labels for whether they are fake or real. The articles are sourced from various websites that publish fake news, and they cover a range of topics.
+
+LIAR: The LIAR dataset contains over 12,000 short statements labeled as true, false, or pants-on-fire. The statements were taken from PolitiFact, a fact-checking website, and cover a range of topics related to US politics.
+
+BuzzFeedNews: This dataset contains over 12,000 news articles labeled as either real or fake. The articles were collected by BuzzFeed News and cover a range of topics.
+
+FakeNewsChallenge: This dataset contains over 50,000 news articles labeled as either real or fake. The articles were collected from various sources and cover a range of topics.
+
+FakeNewsCorpus: This dataset contains over 171,000 news articles labeled as either real or fake. The articles were collected from various sources and cover a range of topics.
